@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name tsl2591_smaller)(type KiCad)(uri ${KIPRJMOD}/tsl2591_smaller.pretty)(options "")(descr ""))
+)
